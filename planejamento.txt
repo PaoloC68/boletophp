@@ -1,0 +1,12 @@
+Classes:
+	informações do boleto(input)
+		classe generica para bancos(Abstract)
+			classe de banco
+		classe de template(controle de saida)
+		classe de codigo de barra (ja tem)
+	Classe de controle (Boleto)	
+	
+ferramentas PEAR:
+	gerador de banco
+	gerador de template
+		gerador de phpunit
